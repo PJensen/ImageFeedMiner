@@ -15,6 +15,8 @@ Screen Shots
 
 ![Settings](https://github.com/PJensen/ImageFeedMiner/blob/master/ScreenShots/feed_miner_settings.png?raw=true)
 
+![Feeds](https://github.com/PJensen/ImageFeedMiner/blob/master/ScreenShots/feed_miner_feeds.png?raw=true)
+
 ## Hiding in the system tray
 > The application will hide it self away
 
