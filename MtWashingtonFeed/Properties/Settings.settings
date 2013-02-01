@@ -1,0 +1,26 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MtWashingtonFeed.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FeedCollection" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;http://www.mountwashington.org/weather/conditions.png&lt;/string&gt;
+  &lt;string&gt;http://www.mountwashington.org/weather/cam/deck/deck-med.jpg&lt;/string&gt;
+  &lt;string&gt;http://www.mountwashington.org/weather/cam/north/north-med.jpg&lt;/string&gt;
+  &lt;string&gt;http://www.mountwashington.org/weather/cam/west/west-med.jpg&lt;/string&gt;
+  &lt;string&gt;http://www.mountwashington.org/weather/cam/ravines/ravines-med.jpg&lt;/string&gt;
+  &lt;string&gt;http://www.mountwashington.org/weather/cam/attitash/attitash-med.jpg&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="FeedInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="DownloadPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="FeedEnabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
